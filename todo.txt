@@ -9,3 +9,4 @@ Add salto
 Add monete
 Add php + db per gli score + dati + monete
 Add GUI di login + GUI presentazione
+Add approfondimenti e concetti chiave
